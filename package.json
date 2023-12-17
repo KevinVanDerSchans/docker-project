@@ -1,6 +1,7 @@
 {
   "name": "docker-project",
   "version": "1.0.0",
+  "type": "module",
   "description": "docker project",
   "main": "server.js",
   "scripts": {
