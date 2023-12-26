@@ -43,6 +43,7 @@ node_modules/
 jspm_packages/
 .DS_Store
 .idea/*
+.dockerignore
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
