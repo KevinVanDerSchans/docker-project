@@ -36,17 +36,22 @@
 
 <div>
 
-    ✔️ Development of a basic APP using NodeJS, ExpressJS and JavaScript, containerizing it through the use of Docker containers.
+    ✔️ Development of a basic APP using NodeJS, ExpressJS and JavaScript,
+    containerizing it through the use of Docker containers.
 
-    ✔️ Creation of a Docker network where a MongoDB container and another one with MongoExpress (MongoDB graphical interface) communicate with each other.
+    ✔️ Creation of a Docker network where a MongoDB container and another one with MongoExpress
+    (MongoDB graphical interface) communicate with each other.
 
     ✔️ Adjustment of the configuration in MongoExpress to enhance the visualization and updating of data.
 
-    ✔️ Using the Dockerfile, we manually simulate the Jenkins process to package and compile the artifact of a new version of the APP into a Docker Image.
+    ✔️ Using the Dockerfile, we manually simulate the Jenkins process to package and compile
+    the artifact of a new version of the APP into a Docker Image.
 
-    ✔️ Using AWS CLI, the Image is deployed to a private repository in AWS ECR (Elastic Container Registry).
+    ✔️ Using AWS CLI, the Image is deployed to a private repository in AWS ECR
+    (Elastic Container Registry).
 
-    ✔️ By using Docker Compose, the Image is extracted from the private AWS repository, thereby allowing accessibility to the development server and facilitating access to the APP.
+    ✔️ By using Docker Compose, the Image is extracted from the private AWS repository,
+    thereby allowing accessibility to the development server and facilitating access to the APP.
 
 </div>
 
@@ -63,7 +68,7 @@
   <br>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="public/readme/nodejs.svg" alt="NodeJS" width="60" height="60" style="margin-right: 24px" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="public/readme/express.svg" alt="ExpressJS" width="60" height="60" style="margin-right: 24px" /></a>
-  <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="public/readme/mongodb.svg" alt="MongoDB" width="90" height="60" style="margin-right: 24px" /></a>
+  <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="public/readme/mongodb.svg" alt="MongoDB" width="60" height="60" style="margin-right: 24px" /></a>
   <br>
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="public/readme/javascript.svg" alt="JavaScript" width="90" height="60" style="margin-right: 24px" /></a>
