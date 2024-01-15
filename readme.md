@@ -1,4 +1,6 @@
-# Complete development workflow of an APP with Docker, Jenkins and AWS
+# Docker project
+
+## Complete development workflow of an APP with Docker, Jenkins and AWS
 
 <br>
 
@@ -9,9 +11,6 @@
     width="850"
   >
 </p>
-
-<br>
-<br>
 
 # Index
 
@@ -29,7 +28,6 @@
 
 7. [Project developer](#project-developer)
 
-<br>
 <br>
 
 ## Project description
@@ -68,7 +66,7 @@
   <br>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="public/readme/nodejs.svg" alt="NodeJS" width="60" height="60" style="margin-right: 24px" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="public/readme/express.svg" alt="ExpressJS" width="60" height="60" style="margin-right: 24px" /></a>
-  <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="public/readme/mongodb.svg" alt="MongoDB" width="60" height="60" style="margin-right: 24px" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="margin-right: 24px" /></a>
   <br>
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="public/readme/javascript.svg" alt="JavaScript" width="90" height="60" style="margin-right: 24px" /></a>
